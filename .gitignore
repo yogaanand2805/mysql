@@ -1,0 +1,16 @@
+/.venv
+/01_basic_sql.ipynb
+/02_table_creation.ipynb
+/03_alter_table.ipynb
+/04_select.ipynb
+/05_constraints.ipynb
+/06_aggregations.ipynb
+/07_comparison.ipynb
+/08_case_when.ipynb
+/09_string_handling.ipynb
+/10_subquery.ipynb
+/11_views.ipynb
+/12_joins.ipynb
+/13_window_functions.ipynb
+/requirements.txt
+/theory.md
